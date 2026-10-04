@@ -14,7 +14,6 @@ The objective of this project is to transform granular, raw candidate-level elec
 ## 📸 Dashboard Previews
 
 ### Page 1: Executive Summary & Realignment Flow
-*(Replace these placeholders with your actual uploaded images)*
 ![Executive Summary](images/dashboard_page1.jpg)
 
 ### Page 2: Regional & Demographic Fractures
@@ -23,7 +22,7 @@ The objective of this project is to transform granular, raw candidate-level elec
 ---
 
 ## 🛠️ Tech Stack & Architecture
-- **Data Engineering & Wrangling:** Python, Pandas, NumPy, Jupyter Notebooks
+- **Data Wrangling:** Python, Pandas, NumPy, Jupyter Notebooks
 - **Data Visualization & BI:** Microsoft Power BI
 - **Data Modeling:** Star Schema (1-to-1 matching), DAX (Data Analysis Expressions)
 
