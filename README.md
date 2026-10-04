@@ -15,10 +15,10 @@ The objective of this project is to transform granular, raw candidate-level elec
 
 ### Page 1: Executive Summary & Realignment Flow
 *(Replace these placeholders with your actual uploaded images)*
-![Executive Summary](images/dashboard_page1.png)
+![Executive Summary](images/dashboard_page1.jpg)
 
 ### Page 2: Regional & Demographic Fractures
-![Regional Breakdown](images/dashboard_page2.png)
+![Regional Breakdown](images/dashboard_page2.jpg)
 
 ---
 
